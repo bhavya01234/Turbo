@@ -1,0 +1,6 @@
+turbopuffer
+voyageai
+requests
+numpy
+pandas
+jupyter
